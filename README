@@ -1,0 +1,18 @@
+#praticamente da riscrivere, da adattare al sito attuale e aggiornare per ruby 1.9
+#
+#       trovatel.rb
+#       a m0t's Studios Production
+#
+#       BUGS: cognomi composti
+#
+#   GOAL: recuperare numeri o nomi da www.infobel.com/it/italy/
+#
+#       REQUISITI:
+#       ruby (scritto con ruby 1.8)
+#       rubygems
+#       optionparser
+#       net/http
+#       uri
+#       activesupport
+#       term-ansicolor
+
